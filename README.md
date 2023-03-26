@@ -1,1 +1,1 @@
-uvicorn main:app --reload          
+# Simple video hosting built with FastAPI
